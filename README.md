@@ -3,12 +3,6 @@ webgl_sample02
 
 3dstudy webgl sample02
 
-免責事項
---------------
-このソースコードを使用した場合のいかなる損害も、
-制作者はその責を負いません。
-ご自身の責任においてご使用ください。
-
 
 License
 ==============
@@ -35,3 +29,10 @@ freely, subject to the following restrictions:
     be misrepresented as being the original software.
 
  3. This notice may not be removed or altered from any source distribution.
+
+
+免責事項
+--------------
+このソースコードを使用した場合のいかなる損害も、制作者はその責を負いません。
+
+ご自身の責任においてご使用ください。
